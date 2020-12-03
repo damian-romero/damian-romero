@@ -29,6 +29,12 @@ I recently participated on the UA L2 Digital Literacies Symposium Panel: [Online
 <p><a href="https://twitter.com/DamianRomero_CL" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/damian-romero/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+### My GH Stats
+
+![](https://github-readme-stats.vercel.app/api?username=damian-romero&show_icons=true&theme=dark)
+
+Thanks to @anuraghazra for the fantastic [stats](https://github.com/anuraghazra/github-readme-stats).
+
 
 ------------
 <img src="https://github.com/damian-romero/copyright-images/blob/main/branding/Chapuli%CC%81n1.png" alt="Jump higher" width="250" height="250">
