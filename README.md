@@ -29,6 +29,8 @@ I recently participated on the UA L2 Digital Literacies Symposium Panel: [Online
 
 ![](https://github-readme-stats.vercel.app/api?username=damian-romero&show_icons=true&theme=dark)
 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=damian-romero&layout=compact)]
+
 Thanks to @anuraghazra for the fantastic [stats](https://github.com/anuraghazra/github-readme-stats).
 
 <h3>Contact</h3>
