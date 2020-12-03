@@ -1,5 +1,7 @@
 ![](https://img.shields.io/badge/Bash-%7C-green) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Matlab-%7C-orange) ![](https://img.shields.io/badge/Perl-%7C-blue)
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=damian-romero)
+
 # Hey there!
 
 **Thanks for visiting my profile.**
