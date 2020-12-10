@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/Bash-%7C-green) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Matlab-%7C-orange) ![](https://img.shields.io/badge/Perl-%7C-blue)
+![Bash](https://img.shields.io/badge/Bash-%7C-green) ![Python](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![Perl](https://img.shields.io/badge/Perl-%7C-blue) ![R](https://img.shields.io/badge/R-%7C-red) ![Matlab](https://img.shields.io/badge/Matlab-%7C-orange)
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=damian-romero)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=damian-romero)
 
 # Hey there!
 
