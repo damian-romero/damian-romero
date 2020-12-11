@@ -6,7 +6,7 @@
 
 **Thanks for visiting my profile.**
 
-My name is **Damian Romero**. I am a Ph.D. candidate at the University of Arizona. Among other things I do corpus linguistics, pargmatics, computational linguistics, and backend development.
+My name is **Damian Romero**. I am a Ph.D. candidate at the University of Arizona. Among other things I do corpus linguistics, pragmatics, computational linguistics, and backend development.
 
 I am currently working as a Graduate Assistant at the University of Arizona's [Research Data Repository](https://data.library.arizona.edu/redata):
 
