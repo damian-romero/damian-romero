@@ -35,4 +35,5 @@ Thanks to @anuraghazra for the fantastic [stats](https://github.com/anuraghazra/
 ------------
 
 <p align="center">Jump higher!</p>
-<p align="center"><img src="https://github.com/damian-romero/copyright-images/blob/main/branding/Chapuli%CC%81n1.png" alt="Jump higher" width="250" height="250"></p>
+<!-- <p align="center"><img src="https://github.com/damian-romero/copyright-images/blob/main/branding/Chapuli%CC%81n1.png" alt="Jump higher" width="250" height="250"></p> -->
+<p align="center"><img src="https://github.com/damian-romero/copyright-images/blob/main/branding/JH_Logo_Transparent_For_White_Background.png" alt="Jump higher" width="250" height="250"></p>
