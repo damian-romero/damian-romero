@@ -15,7 +15,7 @@ My name is **Damian Romero**. I am a computational linguist recently graduated f
 ### Past
 ========
 - Leading the [Multilingual College Email Corpus Poject](https://github.com/orgs/MCECorpus/)
-- 2021 Summer intern for [Explosion](https://explosion.ai/)
+- 2021 & 2022 Summer intern for [ExplosionAI](https://explosion.ai/)
 - Contributed to the [University of Arizona ReDATA projects](https://github.com/UAL-ODIS)
 - Participated on the UA L2 Digital Literacies Symposium Panel: [Online Education during Times of Crisis: Challenges of Teaching during COVID-19](https://www.youtube.com/watch?v=ALHwoH_kl6s&list=PLxWdN3n-6Edv1DAiF-TaoIKTY9p9_Mcg5&index=2&ab_channel=CERCLLUA)
 
