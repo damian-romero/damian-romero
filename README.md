@@ -1,6 +1,7 @@
 ![Bash](https://img.shields.io/badge/Bash-%7C-green) ![Python](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![Perl](https://img.shields.io/badge/Perl-%7C-blue) ![Matlab](https://img.shields.io/badge/Matlab-%7C-orange)
+
 # Damian Romero
-**Data Analyst | AI/NLP Specialist | Technical Problem Solver**
+**AI/NLP Specialist | Data Analyst | Technical Problem Solver**
 
 Bilingual (Spanish/English) technologist combining data analysis, NLP research, and AI expertise to extract insights from complex systems and build solutions that improve processes at scale. Background spans prompt engineering, statistical analysis, technical investigation, and cross-functional collaboration.
 
